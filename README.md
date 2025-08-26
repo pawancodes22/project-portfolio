@@ -5,7 +5,7 @@ This repository serves as a central hub for all my project source codes and thei
 ---
 
 ##  📱 – Full Stack Chat Application
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO  
 **Deployment Link:** [Chat Application](https://chatapplication-jzqv.onrender.com/)  
 **GitHub Repo:** [Chat Application Repository](https://github.com/pawancodes22/ChatApplication.git)
 
