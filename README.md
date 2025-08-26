@@ -4,6 +4,13 @@ This repository serves as a central hub for all my project source codes and thei
 
 ---
 
+##  📱 – Full Stack Chat Application
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO
+**Deployment Link:** [Chat Application](https://chatapplication-jzqv.onrender.com/)  
+**GitHub Repo:** [Kutty Travels Repository](https://github.com/pawancodes22/ChatApplication.git)
+
+---
+
 ## 🌐 Kutty Travels – Full Stack Bus Booking App  
 **Tech Stack:** React.js, Node.js, Express.js, SQLite  
 **Deployment Link:** [Kutty Travels Website](https://busticketing-om3n.onrender.com/)  
@@ -40,3 +47,4 @@ This repository serves as a central hub for all my project source codes and thei
 **Features:** Showcases my skills, projects, and contact information  
 **Deployment Link:** [Portfolio Website](https://gorgeous-gnome-7097f1.netlify.app/)  
 **GitHub Repo:** [Portfolio Repository](https://github.com/pawancodes22/Portfolio-Website.git)
+
